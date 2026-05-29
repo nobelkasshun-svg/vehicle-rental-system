@@ -53,4 +53,4 @@ src/
 ---
 
 ## Author
-- GitHub: nobelkasshun-svg
+- GitHub: nobelkasshun-svg"trigger" 
